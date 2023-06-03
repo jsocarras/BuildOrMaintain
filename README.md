@@ -1,6 +1,6 @@
 # BuildOrMaintain
 
-![Screen Shot 2023-06-03 at 12 50 28 AM](https://github.com/jsocarras/BuildOrMaintain/assets/37901304/51b0f671-cffc-49a0-98f4-039cf89d037e)
+![Screen Shot 2023-06-03 at 12 50 28 AM](https://github.com/jsocarras/BuildOrMaintain/assets/37901304/45e8cdac-0fd3-4502-9ba9-960f56dfea28)
 
 To run, clone this repo, then run this command in your terminal: "streamlit run app.py"
 
